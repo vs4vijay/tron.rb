@@ -6,9 +6,13 @@ include Ncurses
 
 class GameManager
 
+  SLEEP_INTERVAL = 0.3
+
   def initialize(name = "Tron")
     start
     @cols = Ncurses.COLS
+    @lines = Ncurses.LINES
+    p @cols, @lines
     make_playground
   end
 
@@ -48,14 +52,31 @@ class GameManager
     # @playground.getch
   end
 
-  def play
+  def game_loop
     # Ncurses.endwin
+    # ((ch = @playground.getch) != KEY_F1)
 
-    while ((ch = @playground.getch) != KEY_F1)
+    while true
       p 'aaa'
+      sleep SLEEP_INTERVAL
     end
 
     # Ncurses.endwin
+  end
+
+  def play
+    game_loop
+
+    # Thread.new { Ncurses.endwin if (ch = @playground.getch) != KEY_F1) }
+    thr = Thread.new do
+       while ((ch = @playground.getch) != KEY_F1)
+         p 'zzz'
+         sleep SLEEP_INTERVAL
+       end
+       Ncurses.endwin
+    end
+    thr.start
+    'aa'
   end
 
   def show_message (message, screen = Ncurses.stdscr, posx = 0, posy = (@cols - message.size)/2)
