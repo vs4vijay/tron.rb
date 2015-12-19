@@ -1,3 +1,3 @@
 # tron.rb
 
-Tron Light Cycle game implementation in Ruby using ncurses
+Tron light cycle game implementation in Ruby using ncurses
