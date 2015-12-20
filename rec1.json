@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "width": 78,
+  "height": 35,
+  "duration": 16.899896,
+  "command": "/bin/zsh",
+  "title": "tron.rb game",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.154828,
+      "[oh-my-zsh] Random theme '/Users/viz/.oh-my-zsh/themes/norm.zsh-theme' loaded...\r\n"
+    ],
+    [
+      0.167643,
+      "/Users/viz/.zshrc:83: command not found: thefuck\r\n"
+    ],
+    [
+      0.004342,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      0.000127,
+      "\u001b]2;viz@Vizays-MacBook-Pro: /Volumes/Viz/github/tron.rb\u0007"
+    ],
+    [
+      0.000033,
+      "\u001b]1;..ithub/tron.rb\u0007"
+    ],
+    [
+      0.024659,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ Vizays-MacBook-Pro \u001b[32mtron.rb \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000039,
+      "\u001b[K"
+    ],
+    [
+      0.000225,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.573045,
+      "r"
+    ],
+    [
+      0.150610,
+      "\u0008ru"
+    ],
+    [
+      0.208293,
+      "b"
+    ],
+    [
+      0.104015,
+      "y"
+    ],
+    [
+      0.168028,
+      " "
+    ],
+    [
+      0.199928,
+      "t"
+    ],
+    [
+      0.175637,
+      "r"
+    ],
+    [
+      0.135224,
+      "on.rb\u001b[1m \u001b[0m"
+    ],
+    [
+      0.424790,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000053,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000128,
+      "\r\r\n"
+    ],
+    [
+      0.000945,
+      "\u001b]2;ruby tron.rb\u0007\u001b]1;ruby\u0007"
+    ],
+    [
+      0.106278,
+      "\u001b[?1049h\u001b[1;35r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.000033,
+      "78\n35\n"
+    ],
+    [
+      0.000851,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[32m\u001b[40m\u001b[H\u001b[2J\u001b(0\u001b[0m\u001b[32m\u001b[40mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[0m\u001b[32m\u001b[40mTron - Light Cycle\u001b(0\u001b[0m\u001b[32m\u001b[40mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[2;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[3;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[4;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[5;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[6;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[7;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[8;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[9;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[10;1H\u001b(0\u001b[0m\u001b[3"
+    ],
+    [
+      0.000047,
+      "2m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[11;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[12;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[13;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[14;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[15;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[16;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[17;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[18;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[19;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[20;1H\u001b(0\u001b[0m\u001b[32m\u001b["
+    ],
+    [
+      0.000204,
+      "40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[21;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[22;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[23;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[24;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[25;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[26;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[27;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b("
+    ],
+    [
+      0.000163,
+      "0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[28;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[29;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[30;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[31;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[32;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[33;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[34;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[78G\u001b(0\u001b[0m\u001b[32m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[35;1H\u001b(0\u001b[0m\u001b[32m\u001b[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[?7lj\u001b[?7h\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[1;49H\u001b(0\u001b[0m\u001b[32m\u001b[40m\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000006,
+      "\u0007"
+    ],
+    [
+      0.000004,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.337730,
+      "\u001b[1;23H\u001b[32m\u001b[40mTron - Light Cycle | Score: Viz(1)\u001b[2;2H.\u001b[3d.\u001b[4d#\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338309,
+      "\u001b[1;55H\u001b[32m\u001b[40m3\u001b[5;5H.\u001b[A\u0008\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338272,
+      "\u001b[1;55H\u001b[32m\u001b[40m4\u001b[6;6H.\u001b[4d\u0008\u0008\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.189914,
+      "\u001b[1;55H\u001b[32m\u001b[40m5\u001b[7;7H.\u001b[4;5H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.333637,
+      "\u001b[1;55H\u001b[32m\u001b[40m7\u001b[4;5H##\u001b[8d .\u001b[9d.\u001b[4;7H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.335305,
+      "\u001b[1;55H\u001b[32m\u001b[40m9\u001b[4;7H##\u001b[10d .\u001b[11d.\u001b[4;9H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338261,
+      "\u001b[1;22H\u001b[32m\u001b[40mTron - Light Cycle | Score: Viz(10\u001b[4;9H#\u001b[12;12H.\u001b[4;10H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.337843,
+      "\u001b[1;55H\u001b[32m\u001b[40m2\u001b[4;10H##\u001b[13;13H.\u001b[14d.\u001b[4;12H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.310163,
+      "\u001b[1;55H\u001b[32m\u001b[40m4\u001b[4;12H##\u001b[15;15H.\u001b[16d.\u001b[4;14H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338180,
+      "\u001b[1;55H\u001b[32m\u001b[40m5\u001b[5;13H#\u001b[17;17H.\u001b[5;14H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.335801,
+      "\u001b[1;55H\u001b[32m\u001b[40m7\u001b[6;13H#\u001b[7d\u0008#\u001b[18;18H.\u001b[19d.\u001b[7;14H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.318130,
+      "\u001b[1;55H\u001b[32m\u001b[40m8\u001b[8;13H#\u001b[20;20H.\u001b[8;14H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338474,
+      "\u001b[1;54H\u001b[32m\u001b[40m20\u001b[8;14H##\u001b[21;21H.\u001b[22d.\u001b[8;16H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.334316,
+      "\u001b[1;55H\u001b[32m\u001b[40m2\u001b[8;16H##\u001b[23;23H.\u001b[24d.\u001b[8;18H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.337737,
+      "\u001b[1;55H\u001b[32m\u001b[40m3\u001b[8;18H#\u001b[25;25H.\u001b[8;19H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.053294,
+      "\u001b[1;55H\u001b[32m\u001b[40m4\u001b[8;19H#\u001b[26;26H.\u001b[8;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338361,
+      "\u001b[1;55H\u001b[32m\u001b[40m5\u001b[9;19H#\u001b[27;27H.\u001b[9;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.335400,
+      "\u001b[1;55H\u001b[32m\u001b[40m7\u001b[10;19H#\u001b[11d\u0008#\u001b[28;28H.\u001b[29d.\u001b[11;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.335560,
+      "\u001b[1;55H\u001b[32m\u001b[40m9\u001b[12;19H#\u001b[13d\u0008#\u001b[30;30H.\u001b[31d.\u001b[13;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.337670,
+      "\u001b[1;54H\u001b[32m\u001b[40m30\u001b[14;19H#\u001b[32;32H.\u001b[14;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338300,
+      "\u001b[1;55H\u001b[32m\u001b[40m2\u001b[15;19H#\u001b[16d\u0008#\u001b[33;33H.\u001b[34d.\u001b[16;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.334982,
+      "\u001b[1;55H\u001b[32m\u001b[40m4\u001b[17;19H#\u001b[18d\u0008#\u001b[35;35H.\u001b[18;20H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.335792,
+      "\u001b[1;55H\u001b[32m\u001b[40m5\u001b[19;19H#\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.339269,
+      "\u001b[H\u001b(0\u001b[0m\u001b[31m\u001b[40mlqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[0m\u001b[31m\u001b[40mTron - Light GAME OVERcore: Viz(37)\u001b(0\u001b[0m\u001b[31m\u001b[40mqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[2;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m.\u001b[75X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[3;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m .\u001b[74X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[4;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m  ##########\u001b[64X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[5;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m   .       #\u001b[64X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[6;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m    .      #\u001b[64X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[7;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m     .     #\u001b[64X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[8;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m      .    #######\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[9;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m       .         #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[10;1H\u001b(0"
+    ],
+    [
+      0.000072,
+      "\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m        .        #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[11;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m         .       #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[12;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m          .      #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[13;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m           .     #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[14;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m            .    #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[15;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m             .   #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[16;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[14X\u001b[16;16H.  #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[17;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[15X\u001b[17;17H. #\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[18;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[16X\u001b[18;18H.#\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[19;"
+    ],
+    [
+      0.000527,
+      "1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[17X\u001b[19;19H#\u001b[58X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[20;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[17X\u001b[20;19H#.\u001b[57X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[21;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[17X\u001b[21;19H# .\u001b[56X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[22;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[20X\u001b[22;22H.\u001b[55X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[23;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[21X\u001b[23;23H.\u001b[54X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[24;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[22X\u001b[24;24H.\u001b[53X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[25;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[23X\u001b[25;25H.\u001b[52X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b"
+    ],
+    [
+      0.000074,
+      "(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[26;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[24X\u001b[26;26H.\u001b[51X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[27;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[25X\u001b[27;27H.\u001b[50X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[28;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[26X\u001b[28;28H.\u001b[49X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[29;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[27X\u001b[29;29H.\u001b[48X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[30;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[28X\u001b[30;30H.\u001b[47X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[31;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[29X\u001b[31;31H.\u001b[46X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[32;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[30X\u001b[32;32H.\u001b[45X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[33;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[31X\u001b[33;33H.\u001b[44X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[34;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b[0m\u001b[31m\u001b[40m\u001b[32X\u001b[34;34H.\u001b[43X\u001b[78G\u001b(0\u001b[0m\u001b[31m\u001b[40mx\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b["
+    ],
+    [
+      0.000010,
+      "35;1H\u001b(0\u001b[0m\u001b[31m\u001b[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B\u001b[0m\u001b[31m\u001b[40m.\u001b(0\u001b[0m\u001b[31m\u001b[40mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[?7lj\u001b[?7h\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m\u001b[1;44H\u001b(0\u001b[0m\u001b[31m\u001b[40m\u001b(B\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.143934,
+      "\u001b[1;55H\u001b[31m\u001b[40m8\u001b[22;19H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.334051,
+      "\u001b[1;55H\u001b[31m\u001b[40m9\u001b[22;18H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338313,
+      "\u001b[1;54H\u001b[31m\u001b[40m41\u001b[22;16H##\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.334794,
+      "\u001b[1;55H\u001b[31m\u001b[40m3\u001b[22;14H##\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338034,
+      "\u001b[1;55H\u001b[31m\u001b[40m4\u001b[22;13H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.150806,
+      "\u001b[1;55H\u001b[31m\u001b[40m5\u001b[22;12H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338397,
+      "\u001b[1;55H\u001b[31m\u001b[40m7\u001b[23;12H#\u001b[24d\u0008#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.338276,
+      "\u001b[1;55H\u001b[31m\u001b[40m8\u001b[25;12H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.171237,
+      "\u001b[1;55H\u001b[31m\u001b[40m9\u001b[26;12H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.333333,
+      "\u001b[1;54H\u001b[31m\u001b[40m51\u001b[26;13H##\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.334570,
+      "\u001b[1;55H\u001b[31m\u001b[40m2\u001b[26;15H#\u001b[1;44H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.172450,
+      "\u001b[39;49m\r\u001b[35d\u001b[K\u001b[35;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000163,
+      "tron.rb:112:in `join'"
+    ],
+    [
+      0.000032,
+      ": Interrupt\r\n"
+    ],
+    [
+      0.000007,
+      "\tfrom tron.rb:112:in `play'\r\n"
+    ],
+    [
+      0.000005,
+      "\tfrom tron.rb:165:in `\u003cmain\u003e'\r\n"
+    ],
+    [
+      0.002882,
+      "\r\n"
+    ],
+    [
+      0.000232,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                             \r \r"
+    ],
+    [
+      0.000148,
+      "\u001b]2;viz@Vizays-MacBook-Pro: /Volumes/Viz/github/tron.rb\u0007"
+    ],
+    [
+      0.000031,
+      "\u001b]1;..ithub/tron.rb\u0007"
+    ],
+    [
+      0.021542,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33mλ Vizays-MacBook-Pro \u001b[32mtron.rb \u001b[33m→ λ \u001b[34mgit \u001b[31mmaster*\u001b[33m → \u001b[00m\u001b[00m"
+    ],
+    [
+      0.000025,
+      "\u001b[K"
+    ],
+    [
+      0.000346,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.318987,
+      "\r\r\n"
+    ]
+  ]
+}
